@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigationdraweractivity_title">Navigation Drawer Example</string>
+    <string name="navigationdraweractivity_description">
+        This example illustrates a common usage of the DrawerLayout widget in the Android support
+        library.
+    </string>
+</resources>
